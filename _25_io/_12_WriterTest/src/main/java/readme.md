@@ -1,0 +1,2 @@
+javac writertest/WriterTest.java
+java writertest/WriterTest

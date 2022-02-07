@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64f98c12-dfa1-4fb0-a2a0-ed9847f95830" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/_Zoo_en.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/_Zoo_hi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/properties/_Zoo_hi.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/out/production/_04_ResourceBundlePriority2/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/out/production/_04_ResourceBundlePriority2/Zoo.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/out/production/_04_ResourceBundlePriority2/Zoo_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/out/production/_04_ResourceBundlePriority2/Zoo_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/properties/Zoo.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/properties/Zoo_en.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/properties/Zoo_fr.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_04_ResourceBundlePriority2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_06_NumberFormat/src/main/java/com/NumberFormatTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_07_NumberFormatParse/src/main/java/com/NumberFormatParse/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_08_DateTimeFormatter/src/main/java/com/DateTimeFormatterTest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_09_DateTimeFormatter_SHORT_MEDIUM/src/main/java/com/DateTimeFormatter_SHORT_MEDIUM/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_10_DateTimeFormatter_ofPattern/src/main/java/com/DateTimeFormatter_ofPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_01_LocaleTest/src/main/java/com/LocaleTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_01_LocaleTest/src/main/java/com/LocaleTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/ResourceBundlePriority.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/ResourceBundlePriority.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/Zoo_en.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/Zoo_hi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/Zoo_hi.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zoo_en.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_Zoo_en.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zoo_hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/_Zoo_hi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/properties/Zoo_hi.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/_04_ResourceBundlePriority/_Zoo_hi.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../_05_MessageFormat/src/main/java/com/MessageFormat/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../_05_MessageFormat/src/main/java/com/MessageFormat/MessageFormatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../todo.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1pua0QxLB8FlfAHPeQSzHDqW8oa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../_Soft/visualvm_204/bin/visualvm.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ResourceBundlePriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ResourceBundlePriority" />
+      <module name="_04_ResourceBundlePriority" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResourceBundlePriority" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f98c12-dfa1-4fb0-a2a0-ed9847f95830" name="Default Changelist" comment="" />
+      <created>1616035205789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616035205789</updated>
+      <workItem from="1616035207272" duration="1097000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1057" y="416" width="447" height="413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616035307389">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1057" y="416" width="447" height="413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1616035307389" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1616036580409">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1616036580409" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1616036580408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1616036580408" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1616036580408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1616036580408" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1616036580408">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1616036580408" />
+  </component>
+</project>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5018e38d-2174-422b-93fa-fbb781cbc02f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Boyarsky J., Selikoff S. - OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide - 2019.epub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boyarsky J., Selikoff S. - OCP Oracle Certified Professional Java SE 11 Programmer I Study Guide - 2019.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Boyarsky J., Selikoff S. - OCP Oracle Certified Professional Java SE 11 Programmer II Study Guide - 2020.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OCP Oracle Certified Professional Java SE 8 Programmer II Study Guide Exam 1Z0-809.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyclicBarrierTest/LionPenManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyclicBarrierTest/LionPenManagerWithCyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cyclicBarrierTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/hello.modules/com/hello/HelloInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/hello.modules/com/hello/HelloModules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/hello.modules/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/main.app/com/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/main.app/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ocp/META-INF/ocp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ocp/com/declareAndInitialize/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ocp/com/doubleVsFloat/Adder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/ocp/com/doubleVsFloat/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1mdFr81QZB8A5JHaOhtHwKubDkR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.cyclicBarrierTest.Main" />
+      <module name="_01_CyclicBarrier" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5018e38d-2174-422b-93fa-fbb781cbc02f" name="Default Changelist" comment="" />
+      <created>1609815756411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609815756411</updated>
+      <workItem from="1609815763907" duration="555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>
