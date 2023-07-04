@@ -1,0 +1,43 @@
+node_modules/
+assets/
+**/resources/static/**
+
+### DITA ###
+distr/document/DITA-OT/docsrc/TemplatePD/out/DOCX/**
+distr/document/DITA-OT/temp/**
+**/.vscode
+
+target/
+*/target/*
+!.mvn/wrapper/maven-wrapper.jar
+*.log
+*.log.*
+*~
+*/coverage/*
+~*
+**/*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*/.idea/*
+*.iws
+*.ipr
+**/*.iml
+
+### NetBeans ###
+nbactions.xml
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/RestJPAFrame/nbproject/
